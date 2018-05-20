@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "167205629338",
+    "firebase_url": "https://webchat-45432.firebaseio.com",
+    "project_id": "webchat-45432",
+    "storage_bucket": "webchat-45432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167205629338:android:a0408b4bc218c82e",
+        "android_client_info": {
+          "package_name": "com.example.imerr.webchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167205629338-thpposepal5ir8jv01lf079qatrth0fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imerr.webchat",
+            "certificate_hash": "3746ffd70a751a83266b73ff38eb99f9026635f1"
+          }
+        },
+        {
+          "client_id": "167205629338-tn9b8696cot0kl4g91rpbn9m57h31lcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCWikKU8EC0SI9GYcRls4m075gTYImZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167205629338-tn9b8696cot0kl4g91rpbn9m57h31lcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
